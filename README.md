@@ -3,61 +3,50 @@
   <img src="https://raw.githubusercontent.com/him254823-cloud/shiro/refs/heads/main/file_00000000bc2082119577886c735a79ab.png" alt="Project Logo" width="200">
 </div>
 
+ **Inject • Launch • Dominate**
 
-A short description about the project and/or client.
+Best Android's utility tool for Mobile Legends Bang Bang
 
-## Getting Started
+### What's best on this app?
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This app is the best game performance optimizer tool, it designed specially for Mobile Legends this delivers high advantanges during game play session creating an best agression every game 🎯 
 
-### Prerequisites
 
-The things you need before installing the software.
 
-* You need this
-* And you need this
-* Oh, and don't forget this
+### Nebula FX Feature
 
-### Installation
+   **Drone View📷**
+   **Drone View + Damage⚔️**
+   **Combat/Skills Config🗡️🛡️**
+   **Hero Skill Pack📦**
+   **Background Music🎵**
+   
 
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
+### How to setup?
 
 ```
-$ First example
-$ Second example
-$ And keep this in mind
+$ Activate Shizuku & Grant Permission
+$ Enter Key
+$ Go to Home & on "Resolve Mini_Patch" & "Resolve Server Connection"
 ```
 
-## Deployment
+## Supported Cloud AI
 
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
+```
+Chat GPT
+Google
+Gemini
+```
 
-### Server
+### App Server
 
-* Live:
-* Release:
-* Development:
+* Mexico
+* Philipines
+* Singapore
 
-### Branches
+### Developer
 
-* Master:
-* Feature:
-* Bugfix:
-* etc...
+**Shiro$**
+**Xyo Gon**
+**Joseph**
 
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
