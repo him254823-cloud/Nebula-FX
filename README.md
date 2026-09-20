@@ -3,7 +3,8 @@
   <img src="https://raw.githubusercontent.com/him254823-cloud/shiro/refs/heads/main/file_00000000bc2082119577886c735a79ab.png" alt="Project Logo" width="200">
 </div>
 
- <div align="Inject • Launch • Dominate">
+ <center>Inject • Launch • Dominate</center>
+ 
 
 Best Android's utility tool for Mobile Legends Bang Bang
 
