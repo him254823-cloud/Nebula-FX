@@ -1,4 +1,7 @@
-# Nebula FX
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/him254823-cloud/shiro/refs/heads/main/file_00000000bc2082119577886c735a79ab.png" alt="Logo" width="50" height="50"> Nebula FX
+</h1>
+
 
 Thank you for your interest in our app!
 
