@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/him254823-cloud/shiro/refs/heads/main/file_00000000bc2082119577886c735a79ab.png" alt="Logo" width="50" height="50"> Nebula FX
+  <img src="https://raw.githubusercontent.com/him254823-cloud/Nebula-FX/refs/heads/main/file_00000000c8fc82119600beb2189840e5.png" alt="Logo" width="50" height="50"> Nebula Engine
 </h1>
 
 
@@ -12,7 +12,7 @@ Click the link below to download the latest version of our app:
 
 ---
 
-## About the Nebula FX
+## About the Engine
 The Nebula FX 
 
 ### Features 📌
