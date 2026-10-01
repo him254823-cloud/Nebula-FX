@@ -15,14 +15,14 @@ Click the link below to download the latest version of our app:
 ## About the Engine
 The Nebula FX 
 
-### Features 📌
-*   **⚡Drone View (1x to 10x):** Get a wider perspective of the battlefield.
-*   **⚡Combat Config** Increase your hero's damage output.
-*   **⚡Rankbooster:** (Assists in boosting your rank in-game)
-*   **🔥Hero Config Pack** Hero stat optimizer
-*   **🎵Background Music** Unlock background music theme
-*   **Version:** 1.3
-*   **Compatibility:** Android 5.0+ (Please verify your device's minimum OS requirement)
+
+| Features | Safety Measures |
+| :--- | :--- |
+| **Drone View** | SAFETY RATE: 🟢 |
+| **Config mod Pack** | SAFETY RATE: 🟡 |
+| **Premium Config** | SAFETY RATE: 🟡 |
+| **Boost Hero** | SAFETY RATE: 🟢 |
+
 
 ## How to Install (For Android Phones)
 1.  Download the APK file using the link above.
