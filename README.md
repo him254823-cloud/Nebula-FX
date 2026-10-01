@@ -37,3 +37,7 @@ The Nebula FX
 4. Get Keys After Payment
 5. Go to app
 6. Paste the key
+
+## Developer Message
+
+Hey users please use this app for 2nd account only i don't guarantee 100% anti ban so use it wisely
